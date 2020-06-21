@@ -6,4 +6,4 @@
 1. Clone this repository
 2. Navigate to the path the project was cloned
 3. Type: npm install to install the dependencies
-4. Type: npx wdio wdio.conf.js
+4. Type: npx wdio wdio.conf.js to run the script
