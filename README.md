@@ -11,7 +11,7 @@
 ## To load Chrome extension
 1. Include the crx file (Eg: extension.crx) inside the project folder
 2. Open wdio.config.js file 
-3. Point to the file by including its path correctly
+3. Point to the crx file by including its path correctly
    
 ```
 var extensionChrome = fs.readFileSync('Vortimo.crx'); 
