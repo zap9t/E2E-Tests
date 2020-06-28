@@ -118,3 +118,6 @@ dist
 # Screenshot directories
 .tmp/
 tests/baseline
+
+# Extension
+Vortimo.crx
