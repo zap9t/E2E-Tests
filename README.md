@@ -10,7 +10,7 @@
 
 ## To load Chrome extension
 1. Include the crx file (Eg: extension.crx) inside the project folder
-2. Open wdio.config.js file 
+2. Open wdio.config.js
 3. Point to the crx file by including its path correctly
    
 ```
