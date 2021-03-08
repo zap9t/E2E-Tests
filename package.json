@@ -28,6 +28,6 @@
     "chai": "^4.2.0",
     "chromedriver": "^83.0.0",
     "wdio-chromedriver-service": "^6.0.3",
-    "wdio-image-comparison-service": "^1.13.6"
+    "wdio-image-comparison-service": "^2.1.0"
   }
 }
